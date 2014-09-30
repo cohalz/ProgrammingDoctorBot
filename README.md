@@ -21,4 +21,4 @@ ProgrammingDoctorBot
 
 現段階ではまだ十分に単語が集まっていないため、bot垢自体を作っておりません。  
 大体30個ぐらい集まったら稼働しようかと考えています。  
-ご協力頂ける方は、Scripts.txtにPull Requestしていただけると幸いです。
+ご協力頂ける方は、Scripts.txtにPull Requestかコメントしていただけると幸いです。
